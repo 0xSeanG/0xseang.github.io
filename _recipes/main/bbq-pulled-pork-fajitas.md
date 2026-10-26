@@ -5,8 +5,9 @@ category: main
 category_label: "Main Dishes"
 ---
 
+Source: Family recipe (Mamma G)
 
-Source: Family recipe (Rdsouc → Mic3Dav, 1/8/2004) Servings: 18 fajitas
+Servings: 18 fajitas
 
 ### Ingredients
 

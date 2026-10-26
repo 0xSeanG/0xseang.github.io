@@ -5,8 +5,9 @@ category: main
 category_label: "Main Dishes"
 ---
 
+Source: [https://natashaskitchen.com/beef-and-broccoli/](https://natashaskitchen.com/beef-and-broccoli/)
 
-Source: [https://natashaskitchen.com/beef-and-broccoli/](https://natashaskitchen.com/beef-and-broccoli/) Servings: 4 | Prep: 17 min | Cook: 13 min | Total: 30 min
+Servings: 4 | Prep: 17 min | Cook: 13 min | Total: 30 min
 
 ### Ingredients
 

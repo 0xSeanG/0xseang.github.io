@@ -5,7 +5,6 @@ category: main
 category_label: "Main Dishes"
 ---
 
-
 Servings: 6
 
 ### Ingredients
@@ -36,7 +35,7 @@ Servings: 6
 ### Directions
 
 1. **Make sauce:** Combine all sauce ingredients in a jar or shaker and blend until smooth.
-2. **Cook filling:** Heat oil in a skillet over medium heat. Sauté onion, garlic, and curry paste for 2–3 minutes. Add ground turkey and cook 5–7 minutes until fully cooked through. Stir in carrots.
+2. **Cook filling:** Heat oil in a skillet over medium heat _(Sean's addition)_. Sauté onion, garlic, and curry paste for 2–3 minutes. Add ground turkey and cook 5–7 minutes until fully cooked through. Stir in carrots.
 3. **Combine:** Stir in peanut sauce until evenly coated. Let cool slightly.
 4. **Assemble:** Spoon turkey filling into lettuce leaves. Top with green onions and peanuts if desired. Serve immediately.
 

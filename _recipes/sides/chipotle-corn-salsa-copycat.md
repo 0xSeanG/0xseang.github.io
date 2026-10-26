@@ -5,8 +5,9 @@ category: sides
 category_label: "Sides"
 ---
 
+Source: [https://www.culinaryhill.com/roasted-chili-corn-salsa-chipotle-copycat/](https://www.culinaryhill.com/roasted-chili-corn-salsa-chipotle-copycat/)
 
-Source: [https://www.culinaryhill.com/roasted-chili-corn-salsa-chipotle-copycat/](https://www.culinaryhill.com/roasted-chili-corn-salsa-chipotle-copycat/) Servings: 10 (½ cup each) | Prep: 20 min | Cook: 15 min | Total: 35 min
+Servings: 10 (½ cup each) | Prep: 20 min | Cook: 15 min | Total: 35 min
 
 ### Ingredients
 

@@ -5,8 +5,7 @@ category: sides
 category_label: "Sides"
 ---
 
-
-Servings: 4 | Temp: 400°F | Cook: 25–30 min
+Temp: 400°F | Cook: 25–30 min
 
 ### Ingredients
 

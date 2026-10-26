@@ -5,8 +5,9 @@ category: main
 category_label: "Main Dishes"
 ---
 
+Source: [https://andrewgruel.substack.com/p/coffee-braised-chuck-roast](https://andrewgruel.substack.com/p/coffee-braised-chuck-roast)
 
-Source: [https://andrewgruel.substack.com/p/coffee-braised-chuck-roast](https://andrewgruel.substack.com/p/coffee-braised-chuck-roast) Servings: 6 | Cook: 3–4 hrs | Temp: 300°F
+Servings: 6 | Cook: 3–4 hrs | Temp: 300°F
 
 ### Ingredients
 

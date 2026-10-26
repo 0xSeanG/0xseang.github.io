@@ -5,8 +5,9 @@ category: breakfast
 category_label: "Breakfast"
 ---
 
+Source: Allrecipes.com (submitted by Lil1)
 
-Source: Allrecipes.com (submitted by Lil1) Servings: 40 | Yield: 5 cups | Prep: 15 min | Cook: 1 hr 45 min | Chill: 8 hrs
+Servings: 40 | Yield: 5 cups | Prep: 15 min | Cook: 1 hr 45 min | Chill: 8 hrs
 
 ### Ingredients
 

@@ -5,8 +5,9 @@ category: sides
 category_label: "Sides"
 ---
 
+Source: [https://feelgoodfoodie.net/recipe/cauliflower-au-gratin/](https://feelgoodfoodie.net/recipe/cauliflower-au-gratin/)
 
-Source: [https://feelgoodfoodie.net/recipe/cauliflower-au-gratin/](https://feelgoodfoodie.net/recipe/cauliflower-au-gratin/) Servings: 6 | Prep: 10 min | Cook: 50 min
+Servings: 6 | Prep: 10 min | Cook: 50 min
 
 ### Ingredients
 

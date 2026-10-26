@@ -60,5 +60,12 @@ layout: default
         {% assign c = site.recipes | where: "category", "sides" %}{{ c.size }} recipes
       </div>
     </a>
+
+    <a href="{{ site.baseurl }}/soups/" class="category-card">
+      <div class="category-name">Soups</div>
+      <div class="category-count">
+        {% assign c = site.recipes | where: "category", "soups" %}{{ c.size }} recipes
+      </div>
+    </a>
   </div>
 </div>

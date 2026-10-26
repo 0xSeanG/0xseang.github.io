@@ -5,8 +5,13 @@ category: appetizers
 category_label: "Appetizers"
 ---
 
+**Source:** [https://www.tasteofhome.com/recipes/chicken-crescent-wreath/](https://www.tasteofhome.com/recipes/chicken-crescent-wreath/)
 
-**Source:** [https://www.tasteofhome.com/recipes/chicken-crescent-wreath/](https://www.tasteofhome.com/recipes/chicken-crescent-wreath/) **Yield:** 16 servings **Prep:** 15 min | **Bake:** 20–25 min **Oven:** 375°F
+**Yield:** 16 servings
+
+**Prep:** 15 min | **Bake:** 20–25 min
+
+**Oven:** 375°F
 
 ***
 

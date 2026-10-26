@@ -5,17 +5,18 @@ category: dessert
 category_label: "Dessert"
 ---
 
+Source: https://littlespoonfarm.com/apple-pie-recipe/
 
-Source: https://littlespoonfarm.com/apple-pie-recipe/ Servings: 8 | Prep: 1 hr | Cook: 1 hr
+Servings: 8 | Prep: 1 hr | Cook: 1 hr
 
 ### Notes
 
-* **My modifications:** Use Golden Delicious apples (\~5); try half Granny Smith next time. Slice thicker than ¼ inch. Reduce bake time by 5–10 min. Use tinfoil wrap instead of pie shield.
+* **My modifications:** Use Golden Delicious apples (\~5); try half Granny Smith next time. Slice thicker than ¼ inch. Reduce bake time by 5–10 min. Do the tinfoil wrap as called for.
 
 ### Ingredients
 
 * 2 (9-inch) pie crusts (store-bought or homemade)
-* 7 large Granny Smith apples, peeled, cored, and sliced ¼-inch thick _(see notes above)_
+* \~5 Golden Delicious apples, peeled, cored, and sliced ¼-inch thick _(Sean's changes: \~5 Golden Delicious instead of the source's 7 large Granny Smith apples, and slice thicker than ¼ inch; see notes above)_
 * ½ cup granulated sugar
 * ½ cup packed brown sugar
 * 2 tbsp all-purpose flour
