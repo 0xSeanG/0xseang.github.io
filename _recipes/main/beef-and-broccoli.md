@@ -43,13 +43,3 @@ Servings: 4 | Prep: 17 min | Cook: 13 min | Total: 30 min
 ### Nutrition (per serving)
 
 Calories: 385 | Carbohydrates: 22g | Protein: 29g | Fat: 21g | Saturated Fat: 4g | Cholesterol: 68mg | Sodium: 902mg | Potassium: 800mg | Fiber: 3g | Sugar: 11g
-
-#### Project content
-
-Recipes in markdownCreated by you
-
-* Add PDFs, documents, or other text to reference in this project.
-
-#### Content
-
-1.
