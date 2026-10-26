@@ -7,6 +7,16 @@ category_label: "Dessert"
 
 Source: [https://cooked.wiki/new/recent/5823a4bf-608b-46dd-a5bc-77d5e8982f5b](https://cooked.wiki/new/recent/5823a4bf-608b-46dd-a5bc-77d5e8982f5b)
 
+### Notes
+
+#### Mamma G's changes
+
+_(Mamma G's notes, as she wrote them)_
+
+* Used pumpkin spice instead of cloves, nutmeg.
+* Added about 1 Tbs of cream on each container of frozen ice cream before mixing in the machine then refroze
+* Did not use graham crackers
+
 ### Ingredients
 
 * 2 cups heavy cream
