@@ -5,8 +5,9 @@ category: appetizers
 category_label: "Appetizers"
 ---
 
+Source: [https://www.mostlyhomemademom.com/smoked-sweet-kielbasa-bites/](https://www.mostlyhomemademom.com/smoked-sweet-kielbasa-bites/)
 
-Source: [https://www.mostlyhomemademom.com/smoked-sweet-kielbasa-bites/](https://www.mostlyhomemademom.com/smoked-sweet-kielbasa-bites/) Servings: 8 | Prep: 5 min | Cook: 1 hr 30 min
+Servings: 8 | Prep: 5 min | Cook: 1 hr 30 min
 
 ### Ingredients
 

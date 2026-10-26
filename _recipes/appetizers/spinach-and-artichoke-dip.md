@@ -5,7 +5,6 @@ category: appetizers
 category_label: "Appetizers"
 ---
 
-
 Temp: 375°F | Bake: 20–25 min
 
 ### Ingredients
@@ -30,6 +29,12 @@ Temp: 375°F | Bake: 20–25 min
 5. Transfer to an 8x8 baking dish. Top with reserved mozzarella.
 6. Bake 20–25 minutes until hot, bubbly, and lightly golden on top.
 7. Optional: Broil 1–2 minutes at the end for extra browning.
+
+### Tips
+
+* For extra flavor, sauté the garlic in a bit of olive oil before adding.
+* You can use fresh spinach (sautéed and drained) instead of frozen.
+* Stir in chopped cooked bacon or caramelized onions to elevate the flavor.
 
 ### Serve With
 

@@ -5,8 +5,9 @@ category: bread
 category_label: "Bread"
 ---
 
+Source: [https://www.spoonfulofflavor.com/banana-bread/](https://www.spoonfulofflavor.com/banana-bread/)
 
-Source: [https://www.spoonfulofflavor.com/banana-bread/](https://www.spoonfulofflavor.com/banana-bread/) Servings: 12 | Prep: 15 min | Cook: 50 min
+Servings: 12 | Prep: 15 min | Cook: 50 min
 
 ### Ingredients
 

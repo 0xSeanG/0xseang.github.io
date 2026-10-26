@@ -5,8 +5,9 @@ category: sides
 category_label: "Sides"
 ---
 
+Source: [https://auntnellies.com/classic-creamed-onions/](https://auntnellies.com/classic-creamed-onions/)
 
-Source: [https://auntnellies.com/classic-creamed-onions/](https://auntnellies.com/classic-creamed-onions/) Servings: 8 | Total: 25 min
+Servings: 8 | Total: 25 min
 
 ### Ingredients
 

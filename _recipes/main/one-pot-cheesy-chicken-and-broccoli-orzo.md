@@ -5,8 +5,9 @@ category: main
 category_label: "Main Dishes"
 ---
 
+Source: [https://whatsmomcookin.com/one-pot-cheesy-chicken-and-broccoli-orzo/](https://whatsmomcookin.com/one-pot-cheesy-chicken-and-broccoli-orzo/)
 
-Source: [https://whatsmomcookin.com/one-pot-cheesy-chicken-and-broccoli-orzo/](https://whatsmomcookin.com/one-pot-cheesy-chicken-and-broccoli-orzo/) Servings: 6 | Total: \~30 min
+Servings: 6 | Total: \~30 min
 
 ### Ingredients
 

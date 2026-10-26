@@ -5,8 +5,9 @@ category: breakfast
 category_label: "Breakfast"
 ---
 
+Source: Allrecipes.com (submitted by cathy)
 
-Source: Allrecipes.com (submitted by cathy) Yield: 48 mini muffins | Prep: 20 min | Cook: 15 min | Total: 35 min
+Yield: 48 mini muffins | Prep: 20 min | Cook: 15 min | Total: 35 min
 
 ### Ingredients
 

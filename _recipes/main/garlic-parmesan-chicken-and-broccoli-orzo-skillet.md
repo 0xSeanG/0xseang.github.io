@@ -5,8 +5,9 @@ category: main
 category_label: "Main Dishes"
 ---
 
+Source: Elina Recipes
 
-Source: Elina Recipes Servings: 4 | Prep: 10 min | Cook: 25 min | Total: 35 min
+Servings: 4 | Prep: 10 min | Cook: 25 min | Total: 35 min
 
 ### Ingredients
 
